@@ -1,0 +1,11 @@
+{
+  "name": "auto-view-story-instagram",
+  "description": "Auto view storty instagram using instagram private api (https://github.com/dilame/instagram-private-api)",
+  "main": "index.js",
+  "author": "Aldi Nugraha",
+  "dependencies": {
+    "inquirer": "7.0.4",
+    "instagram-private-api": "1.39.0",
+    "lodash": "4.17.15"
+  }
+}
